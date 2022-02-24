@@ -1,1 +1,3 @@
-# ccsd_pair_energies_ml
+# CCSD features and pair energy generator for Machine Learning
+
+
